@@ -1,2 +1,2 @@
 # GraphQLReactive
-Created with CodeSandbox
+Consuming Rick and Morti GraphQL API in React
